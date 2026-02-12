@@ -1,0 +1,50 @@
+Nome	"Alunni inseriti"	"Numero di alunni"	Livelli	"Piano di studi"	Occupazione	"Docente coordinatore"	"Tasso d'occup. potenziale"	"Aula preferenziale"	"Max 1/2 giornate di lavoro"	"Lavorare solo 1/2 giornata al giorno"	Colore
+_3S	0	0	3°	"Serale3Auto, Serale3Info, Serale3Mecc"	11h00		100%		*-*		#FFFF99
+_4S	0	0	4°	"Serale4Auto, Serale4Info, Serale4Mecc"	11h00		100%		*-*		#FFFF99
+_5S	0	0	5°	"Serale5Auto, Serale5Info, Serale5Mecc"	11h00		100%		*-*		#FFFF99
+1A	25	0	1°		35h00		100%		*-*		#FFFF99
+1B	25	0	1°		35h00		100%		*-*		#FFFF99
+1C	25	0	1°		35h00		100%		*-*		#FFFF99
+1D	25	0	1°		35h00		100%		*-*		#FFFF99
+1E	25	0	1°		35h00		100%		*-*		#FFFF99
+1F	25	0	1°		35h00		100%		*-*		#FFFF99
+1Q	25	0	1°		38h00		100%		*-*		#FFFF99
+2A	25	0	2°		35h00		100%		*-*		#FFFF99
+2B	25	0	2°		35h00		100%		*-*		#FFFF99
+2C	25	0	2°		35h00		100%		*-*		#FFFF99
+2D	25	0	2°		35h00		100%		*-*		#FFFF99
+2E	25	0	2°		35h00		100%		*-*		#FFFF99
+2F	25	0	2°		35h00		100%		*-*		#FFFF99
+2G	25	0	2°		35h00		100%		*-*		#FFFF99
+2H	25	0	2°		35h00		100%		*-*		#FFFF99
+2I	25	0	2°		35h00		100%		*-*		#FFFF99
+2Q	25	0	2°		38h00		100%		*-*		#FFFF99
+3ea_Aea	25	0	3°		35h00		100%		*-*		#FFFF99
+3ea_Bea	25	0	3°		35h00		100%		*-*		#FFFF99
+3i_Ai	25	0	3°		35h00		100%		*-*		#FFFF99
+3i_Bi	25	0	3°		35h00		100%		*-*		#FFFF99
+3m_Am	25	0	3°		35h00		100%		*-*		#FFFF99
+3m_Bm	25	0	3°		35h00		100%		*-*		#FFFF99
+3m_Cm	0	0	3°		35h00		100%		*-*		#FFFF99
+3m_Den	25	0	3°		35h00		100%		*-*		#FFFF99
+3Q	25	0	3°		37h00		100%		*-*		#FFFF99
+4ea_Aea	25	0	4°		35h00		100%		*-*		#FFFF99
+4ea_Bea	25	0	4°		35h00		100%		*-*		#FFFF99
+4i_Ai	25	0	4°		35h00		100%		*-*		#FFFF99
+4i_Bi	25	0	4°		35h00		100%		*-*		#FFFF99
+4i_Ci	25	0	4°		35h00		100%		*-*		#FFFF99
+4m_Am	25	0	4°		35h00		100%		*-*		#FFFF99
+4m_Bm	25	0	4°		35h00		100%		*-*		#FFFF99
+4m_Cm	25	0	4°		35h00		100%		*-*		#FFFF99
+4m_Den	25	0	3°		35h00		100%		*-*		#FFFF99
+5ea_Aea	20	0	5°		35h00		100%		*-*		#FFFF99
+5ea_Bea	21	0	5°		35h00		100%		*-*		#FFFF99
+5i_Ai	14	0	5°		35h00		100%		*-*		#FFFF99
+5i_Bi	17	0	5°		35h00		100%		*-*		#FFFF99
+5i_Ci	17	0	5°		35h00		100%		*-*		#FFFF99
+5m_Am	21	0	5°		35h00		100%		*-*		#FFFF99
+5m_Bm	25	0	5°		35h00		100%		*-*		#FFFF99
+5m_Cen	18	0	5°		35h00		100%		*-*		#FFFF99
+5m_Den	25	0	5°		35h00		100%		*-*		#FFFF99
+5m_Fen	25	0	5°		35h00		100%		*-*		#FFFF99
+Biblioteca_IRC	0	0	"Non indicato"		4h00		5%		*-*		#FFFF99

@@ -1,0 +1,1402 @@
+Durata	"Giorno e ora"	Periodi	"Proprietà di piazzamento"	Frequenza	Stato	"Spazi Possibili"	"Nr Giorni"	Sezionamento	Docente	Materia	"Modalità di scelta"	Classe	"Settimana d'applicazione"	"Numero alunni"	"Nr alunni"	Aula	Periodicità	Compresenza	Coefficiente	"Alu. Var."	Tipologia	Personale	Materiale
+1h00	"Non piazzata"			S		42	4		"Tarchioni Tiffani"	"BIBLIO - Biblioteca"	"Senza specifica"			0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		0	0		"Montalbano Stefano"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Fen	"Settimana 49"	25	0		"S (33/33)"		60/60				
+4h00	"venerdì 08h45"			S		39	5			"ALTA FORMAZIONE - Alta Formazione Professionale"	"Senza specifica"		"Settimana 4"	0	0	_LabCloud_303	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		25	2		"_Alternativo Biblio"	"ALTERN - Alternativa alla Religione"	"Senza specifica"	Biblioteca_IRC	"Settimana 39"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		27	2		"_Alternativo Biblio"	"ALTERN - Alternativa alla Religione"	"Senza specifica"	Biblioteca_IRC	"Settimana 39"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		28	2		"_Alternativo Biblio"	"ALTERN - Alternativa alla Religione"	"Senza specifica"	Biblioteca_IRC	"Settimana 39"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		30	2		"_Alternativo Biblio"	"ALTERN - Alternativa alla Religione"	"Senza specifica"	Biblioteca_IRC	"Settimana 39"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		62	5		"_Amarisse Paolo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"_Amarisse Paolo, Agostino Ninone Lucia"	"TEDESCO - Tedesco"	"Senza specifica"	1D	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		0	0		"_Amarisse Paolo, D'Agostino Elisa"	"ITA - Italiano"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		0	0		"_Amarisse Paolo, D'Agostino Elisa"	"ITA - Italiano"	"Senza specifica"	1D	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"_Amarisse Paolo, D'Agostino Elisa"	"STORIA - Storia"	"Senza specifica"	1D	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"_Amarisse Paolo, D'Agostino Elisa"	"ITA - Italiano"	"Senza specifica"	1D	"Settimana 49"	25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1	P	"_Amarisse Paolo, D'Agostino Elisa"	"ITASTO - Italiano+Storia"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"_Amarisse Paolo, Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1A	"Settimana 40"	25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		0	0		"_Amarisse Paolo, Dietre Andrea"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Fen	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"_Amarisse Paolo, Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"_Amarisse Paolo, Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	1F	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"_Amarisse Paolo, Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"_Amarisse Paolo, Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"_Amarisse Paolo, Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		1	1		"_Amarisse Paolo, Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	1D	"Settimana 40"	25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		0	0		"_Amarisse Paolo, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"_Amarisse Paolo, Poli Valentina"	"MATE - Matematica"	"Senza specifica"	1F	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		0	0		"_Amarisse Paolo, Poli Valentina"	"MATE - Matematica"	"Senza specifica"	1F	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"_Amarisse Paolo, Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1A	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"_Amarisse Paolo, Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	1A	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"_Amarisse Paolo, Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	1A	"Settimana 5"	25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		65	5		"_Cavagnoli Giuia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 49"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"_Cavagnoli Giuia, Cattani Alice"	"MATE - Matematica"	"Senza specifica"	3i_Ai	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"_Cavagnoli Giuia, Chinetti Francesca"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2G	"Settimana 49"	25	0		"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		1	1		"_Cavagnoli Giuia, Favale Lisa"	"ITA - Italiano"	"Senza specifica"	2G	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"_Cavagnoli Giuia, Favale Lisa"	"STORIA - Storia"	"Senza specifica"	2G	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"_Cavagnoli Giuia, Favale Lisa"	"ITA - Italiano"	"Senza specifica"	2G	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		1	1		"_Cavagnoli Giuia, Liardo Lunetta"	"ITA - Italiano"	"Senza specifica"	4m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"_Cavagnoli Giuia, Messina Daniel"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Bm	"Settimana 40"	25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"_Cavagnoli Giuia, Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	4i_Bi	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"_Cavagnoli Giuia, Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	2G	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"_Cavagnoli Giuia, Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"_Cavagnoli Giuia, Silli Chiara"	"STORIA - Storia"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"_Cavagnoli Giuia, Silli Chiara"	"ITA - Italiano"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		0	0		"_Cavagnoli Giuia, Silli Chiara"	"ITA - Italiano"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"_Cavagnoli Giuia, Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		53	4		"_De Luca Rosita"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"_De Luca Rosita, Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	2D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"_De Luca Rosita, D'Alessio Roberta"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1C	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"_De Luca Rosita, Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	1C	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"_De Luca Rosita, Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	2D	"Settimana 49"	25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		0	0		"_De Luca Rosita, Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	1C	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		0	0		"_De Luca Rosita, Manica Ilaria"	"ITA - Italiano"	"Senza specifica"	1F	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		0	0	P	"_De Luca Rosita, Manica Ilaria"	"ITASTO - Italiano+Storia"	"Senza specifica"	1F	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h55"			S		1	1		"_De Luca Rosita, Marzani Carlo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		0	0		"_De Luca Rosita, Poli Valentina"	"MATE - Matematica"	"Senza specifica"	1F	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"_De Luca Rosita, Poli Valentina"	"MATE - Matematica"	"Senza specifica"	1F	"Settimana 49"	25	0		"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		0	0		"_De Luca Rosita, Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2D	"Settimana 49"	25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		0	0		"_De Luca Rosita, Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"_De Luca Rosita, Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"_De Luca Rosita, Sannicolo Federico"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"_De Luca Rosita, Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	1C	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		0	0		"_De Luca Rosita, Silli Chiara"	"ITA - Italiano"	"Senza specifica"	1C	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"_De Luca Rosita, Silli Chiara"	"STORIA - Storia"	"Senza specifica"	1C	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		0	0		"_De Luca Rosita, Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	1D	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		65	5		"_Di Martino Ignazio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"_Di Martino Ignazio, Agostino Ninone Lucia"	"TEDESCO - Tedesco"	"Senza specifica"	1B	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		0	0		"_Di Martino Ignazio, Berti Eugenio"	"SISTEMI - Sistemi"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		0	0		"_Di Martino Ignazio, Bittoni Francesca"	"TPSEE - TPSEE"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		0	0		"_Di Martino Ignazio, Cattani Alice"	"MATE - Matematica"	"Senza specifica"	1B	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"_Di Martino Ignazio, Cesarini Andrea"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Am	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"_Di Martino Ignazio, Cesarini Andrea"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Am	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		0	0		"_Di Martino Ignazio, Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	3m_Am	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"_Di Martino Ignazio, Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	3m_Am	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"_Di Martino Ignazio, Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	2I	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"_Di Martino Ignazio, Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	2I	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"_Di Martino Ignazio, Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2I	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"_Di Martino Ignazio, Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2I	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"_Di Martino Ignazio, Panizza Elena"	"STORIA - Storia"	"Senza specifica"	1B	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"_Di Martino Ignazio, Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	1B	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"_Di Martino Ignazio, Poli Valentina"	"MATE - Matematica"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"_Di Martino Ignazio, Poli Valentina"	"MATE - Matematica"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"_Di Martino Ignazio, Scandella Michele"	"STORIA - Storia"	"Senza specifica"	2I	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		0	0		"_Di Martino Ignazio, Scandella Michele"	"ITA - Italiano"	"Senza specifica"	2I	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"_Di Martino Ignazio, Scottini Giovanni"	"STORIA - Storia"	"Senza specifica"	3m_Am	"Settimana 40"	25	0		"S (33/33)"		60/60				
+3h00	"martedì 08h45"			S		11	1		"_Mandelli Emma"	"COORDI - Coordinamento BES"	"Senza specifica"		"Settimana 38"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		62	5		"_Mandelli Emma"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		0	0		"_Mandelli Emma, Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	3m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		0	0		"_Mandelli Emma, Bittoni Francesca"	"TPSEE - TPSEE"	"Senza specifica"	3ea_Aea	"Settimana 49"	25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		0	0		"_Mandelli Emma, Bittoni Francesca"	"AUTONOMIA - Autonomia"	"Senza specifica"	3ea_Aea	"Settimana 49"	25	0	_LabElettronica_316	"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"_Mandelli Emma, Cattani Alice"	"MATE - Matematica"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"lunedì 08h45"			S		1	1		"_Mandelli Emma, Iacovone Rita"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"_Mandelli Emma, Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		0	0		"_Mandelli Emma, Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"_Mandelli Emma, Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"_Mandelli Emma, Poli Valentina"	"MATE - Matematica"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		0	0		"_Mandelli Emma, Segala Consuelo"	"RETI - Reti"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"_Mandelli Emma, Silli Chiara"	"STORIA - Storia"	"Senza specifica"	3m_Den	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"_Mandelli Emma, Tairovsky Denis"	"AUTONOMIA - Autonomia"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"_Mandelli Emma, Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		0	0		"_Mandelli Emma, Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	3m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Agostino Ninone Lucia"	"TEDESCO - Tedesco"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"Agostino Ninone Lucia"	"TEDESCO - Tedesco"	"Senza specifica"	1D		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		0	0		"Agostino Ninone Lucia"	"TEDESCO - Tedesco"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		0	0		"Agostino Ninone Lucia"	"TEDESCO - Tedesco"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		0	0		"Agostino Ninone Lucia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		54	4		"Andretta Ciro"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+3h00	"lunedì 10h25"			S		1	1		"Andretta Ciro, Pancheri Paolo"	"SCI_NAT - Scienze Naturali e Fisica Applicata"	"Senza specifica"	1Q		25	0	_LabFisica_119	"S (33/33)"		60/60				
+3h00	"mercoledì 10h25"			S		1	1		"Andretta Ciro, Pancheri Paolo"	"SCI_NAT - Scienze Naturali e Fisica Applicata"	"Senza specifica"	2Q		25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		0	0		"Andretta Ciro, Pancheri Paolo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1F	"Settimana 40"	25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		0	0		"Andretta Ciro, Pancheri Paolo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1F	"Settimana 49"	25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"venerdì 10h25"			S		1	1		"Andretta Ciro, Pancheri Paolo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1F		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		0	0		"Andretta Ciro, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1D		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"giovedì 12h55"			S		0	0		"Andretta Ciro, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1D		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		0	0		"Andretta Ciro, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1E		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		0	0		"Andretta Ciro, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1E		25	0	_LabChimica_120	"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Arlanch Giorgio"	"ROBOT - Robotica"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		18	3		"Arlanch Giorgio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 12h55"			S		1	1		"Arlanch Giorgio"	"TPSEE - TPSEE"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Arlanch Giorgio"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Arlanch Giorgio"	"TPSEE - TPSEE"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Arlanch Giorgio"	"TPSEE - TPSEE"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Arlanch Giorgio, Bruni Giulio"	"STA - STA"	"Senza specifica"	2I		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"Arlanch Giorgio, Bruni Giulio"	"STA - STA"	"Senza specifica"	2I		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+3h00	"giovedì 09h35"			S		1	1		"Arlanch Giorgio, Bruni Giulio"	"TPSEE - TPSEE"	"Senza specifica"	5ea_Aea		20	0	_LabAutomazione_008	"S (33/33)"		60/60				
+2h00	"mercoledì 12h55"			S		1	1		"Arlanch Giorgio, Elia Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Bm		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Arlanch Giorgio, Ferrari Nicola"	"TPSEE - TPSEE"	"Senza specifica"	3Q		25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"martedì 08h45"			S		1	1		"Arlanch Giorgio, Ferrari Nicola"	"TPSEE - TPSEE"	"Senza specifica"	3Q		25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Arlanch Giorgio, Ferrari Nicola"	"ROBOT - Robotica"	"Senza specifica"	2Q		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		60	5		"Armillotta Anna Rita"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Armillotta Anna Rita"	"STORIA - Storia"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Armillotta Anna Rita"	"STORIA - Storia"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Armillotta Anna Rita"	"STORIA - Storia"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		0	0		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	3m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Armillotta Anna Rita"	"STORIA - Storia"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Armillotta Anna Rita"	"STORIA - Storia"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Armillotta Anna Rita"	"STORIA - Storia"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Armillotta Anna Rita"	"STORIA - Storia"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Armillotta Anna Rita"	"ITA - Italiano"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+3h00	"lunedì 20h25"			S		0	0	P	"Barillà Pasquale, Bruno Antonio, Campi Alberto, Ghizzi Andrea, Valente Roberto, Zago Manuel"	"MATERI - Materia non assegnata"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 18h45"			S		0	0		"Barillà Pasquale, Campi Alberto"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	"<_5S> Meccanica"	"Settimana 37"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 20h25"			S		0	0		"Barillà Pasquale, Campi Alberto"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	"<_3S> Meccanica"	"Settimana 38"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 18h45"			S		0	0		"Barillà Pasquale, Campi Alberto"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 21h25"			S		1	1		"Barillà Pasquale, Cian Marco"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	"<_5S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"venerdì 21h25"			S		1	1		"Barillà Pasquale, Cian Marco"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 18h45"			S		1	1		"Barillà Pasquale, Zandonai GianMario"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 19h35"			S		1	1		"Barillà Pasquale, Zandonai GianMario"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	"<_3S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"venerdì 18h45"			S		1	1		"Barillà Pasquale, Zandonai GianMario"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	"<_5S> Meccanica"		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		43	3		"Battistotti Gianni"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Battistotti Gianni"	"TPSEE - TPSEE"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 12h55"			S		1	1		"Battistotti Gianni"	"TPSEE - TPSEE"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		1	1		"Battistotti Gianni"	"ROBOT - Robotica"	"Senza specifica"	3Q	"Settimana 52"	25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+3h00	"lunedì 08h45"			S		1	1		"Battistotti Gianni, Bruni Giulio"	"TPSEE - TPSEE"	"Senza specifica"	4ea_Aea		25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Battistotti Gianni, Cenci Chiara"	"ROBOT - Robotica"	"Senza specifica"	3Q		25	0	"_LabRobotica_317, _LabTPSEE_007"	"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"Battistotti Gianni, Cenci Chiara"	"ROBOT - Robotica"	"Senza specifica"	3Q		25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+3h00	"venerdì 08h45"			S		1	1		"Battistotti Gianni, Cenci Chiara"	"TPSEE - TPSEE"	"Senza specifica"	4ea_Bea		25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+2h00	"giovedì 08h45"			S		1	1		"Battistotti Gianni, Decarli Matteo"	"STA - STA"	"Senza specifica"	2H		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Battistotti Gianni, Decarli Matteo"	"STA - STA"	"Senza specifica"	2H		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Berti Eugenio"	"ELETTRO - Elettronica"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Berti Eugenio"	"ROBOT - Robotica"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		0	0		"Berti Eugenio"	"SISTEMI - Sistemi"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		71	5		"Berti Eugenio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Berti Eugenio, Cenci Chiara"	"SISTEMI - Sistemi"	"Senza specifica"	3ea_Aea		25	0	_LabElettronica_316	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Berti Eugenio, Decarli Matteo"	"ELETTRO - Elettronica"	"Senza specifica"	3Q		25	0	_LabElettronica_316	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Berti Eugenio, Decarli Matteo"	"ELETTRO - Elettronica"	"Senza specifica"	3Q		25	0	_LabElettronica_316	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Berti Eugenio, Ferrari Nicola"	"ROBOT - Robotica"	"Senza specifica"	1Q		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Bertolini Francesca"	"ITA - Italiano"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Bertolini Francesca"	"STORIA - Storia"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Bertolini Francesca"	"ITA - Italiano"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Bertolini Francesca"	"ITA - Italiano"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Bertolini Francesca"	"ITA - Italiano"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Bertolini Francesca"	"STORIA - Storia"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Bertolini Francesca"	"ITA - Italiano"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Bertolini Francesca"	"STORIA - Storia"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Bertolini Francesca"	"STORIA - Storia"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Bertolini Francesca"	"ITA - Italiano"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Bertolini Francesca"	"STORIA - Storia"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		54	4		"Bertolini Francesca"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Bertolli Federico"	"RETI - Reti"	"Senza specifica"	5i_Bi		17	0	_LabCloud_303	"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		63	5		"Bertolli Federico"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 19h35"			S		1	1		"Bertolli Federico"	"RETI - Reti"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 08h45"			S		1	1		"Bertolli Federico"	"RETI - Reti"	"Senza specifica"	4i_Ci		25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+1h00	"giovedì 20h25"			S		1	1		"Bertolli Federico"	"RETI - Reti"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 21h25"			S		1	1		"Bertolli Federico"	"GES_PRO - Gestione Progetto"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 20h25"			S		1	1		"Bertolli Federico, Dappiano Andrea"	"RETI - Reti"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 18h45"			S		1	1		"Bertolli Federico, Dappiano Andrea"	"RETI - Reti"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Bertolli Federico, Longano Mauro"	"AUTONOMIA - Autonomia"	"Senza specifica"	4i_Ci	"Settimana 38"	25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"Bertolli Federico, Montagni Patrizia"	"RETI - Reti"	"Senza specifica"	5i_Bi	"Settimana 39"	17	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"venerdì 12h55"			S		1	1		"Bertolli Federico, Montagni Patrizia"	"RETI - Reti"	"Senza specifica"	4i_Ci		25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		0	0		"Bertolli Federico, Montagni Patrizia"	"AUTONOMIA - Autonomia"	"Senza specifica"	5i_Bi	"Settimana 39"	17	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	1E	"Settimana 39"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		56	5		"Bianchi Sonia"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		56	5		"Bianchi Sonia"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	1E		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		45	5		"Bianchi Sonia"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+3h00	"giovedì 09h35"			S		18	2		"Bianchi Sonia"	"FABER - FABER"	"Senza specifica"			0	0		"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	5m_Den		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		66	5		"Bianchi Sonia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Bianchi Sonia"	"INGLESE - Inglese"	"Senza specifica"	2E		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		48	5		"Bianchi Sonia, Tarchioni Tiffani"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		39	3		"Biasiol Matilde"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+3h00	"martedì 07h55"			S		1	1		"Biasiol Matilde, D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Am		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Biasiol Matilde, D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Cm		0	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		0	0		"Biasiol Matilde, D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Am		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Biasiol Matilde, Dallapiccola Paolo"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Fen	"Settimana 39"	25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		1	1		"Biasiol Matilde, Lazzara Salvatore"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Am	"Settimana 37"	25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		0	0		"Biasiol Matilde, Lazzara Salvatore"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Bm	"Settimana 37"	25	0	_LabEnergia_005	"S (33/33)"		60/60				
+3h00	"giovedì 07h55"			S		1	1		"Biasiol Matilde, Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Bm		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"Biasiol Matilde, Nastasi Corrado"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Den	"Settimana 39"	25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Biasiol Matilde, Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	4m_Bm		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		0	0		"Biasiol Matilde, Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	4m_Am		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		55	4		"Bisoffi Lorenzo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Bisoffi Lorenzo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 14h35"			S		1	1		"Bisoffi Lorenzo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Bisoffi Lorenzo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Bisoffi Lorenzo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Bisoffi Lorenzo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Bisoffi Lorenzo"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Den		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Bisoffi Lorenzo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Bisoffi Lorenzo, D'Arrigo Luca"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Den		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"lunedì 08h45"			S		1	1		"Bisoffi Lorenzo, Elia Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Bm		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Bisoffi Lorenzo, Elia Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Den		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"Bisoffi Lorenzo, Elia Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Den		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		1	1		"Bisoffi Lorenzo, Zuliani Andrea"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Cen		18	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		46	4		"Bittoni Francesca"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		0	0		"Bittoni Francesca"	"TPSEE - TPSEE"	"Senza specifica"	3ea_Bea	"Settimana 38"	25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		0	0		"Bittoni Francesca"	"TPSEE - TPSEE"	"Senza specifica"	3ea_Aea	"Settimana 40"	25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Bittoni Francesca"	"TPSEE - TPSEE"	"Senza specifica"	3ea_Bea	"Settimana 38"	25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"martedì 13h45"			S		0	0		"Bittoni Francesca, Bruni Giulio"	"STA - STA"	"Senza specifica"	2F		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Bittoni Francesca, Bruni Giulio"	"TPSEE - TPSEE"	"Senza specifica"	3ea_Aea		25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Bittoni Francesca, Bruni Giulio"	"STA - STA"	"Senza specifica"	2F		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"venerdì 13h45"			S		1	1		"Bittoni Francesca, Cenci Chiara"	"TPSEE - TPSEE"	"Senza specifica"	3ea_Bea	"Settimana 38"	25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		0	0		"Bittoni Francesca, Decarli Matteo"	"AUTONOMIA - Autonomia"	"Senza specifica"	3ea_Aea		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		0	0		"Bittoni Francesca, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2B		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		0	0		"Bittoni Francesca, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2B		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Bittoni Francesca, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2E		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Bittoni Francesca, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2E		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"martedì 18h45"			S		0	0		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_3S	"Settimana 38"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 19h35"			S		0	0		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+1h00	"martedì 21h25"			S		1	1		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"martedì 22h15"			S		1	1		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 22h15"			S		1	1		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 18h45"			S		1	1		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 20h25"			S		0	0		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 21h25"			S		0	0		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 22h15"			S		1	1		"Bordin Roberto"	"MATE - Matematica"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Boschi Luca"	"INFO - Informatica"	"Senza specifica"	3i_Bi		25	0	_LabInformatica2_221	"S (33/33)"		60/60				
+3h00	"martedì 13h45"			S		18	2		"Boschi Luca"	"LANPARTY - Progetto LAN Party"	"Senza specifica"		"Settimana 48"	0	0	_LabTPSIT_222	"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		52	4		"Boschi Luca"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		0	0		"Boschi Luca"	"INFO - Informatica"	"Senza specifica"	4i_Bi		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"Boschi Luca"	"INFO - Informatica"	"Senza specifica"	5i_Bi		17	0	_LabInformatica2_221	"S (33/33)"		60/60				
+2h00	"venerdì 10h25"			S		1	1		"Boschi Luca"	"INFO - Informatica"	"Senza specifica"	5i_Bi		17	0	_LabInformatica2_221	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		0	0		"Boschi Luca, Montagni Patrizia"	"INFO - Informatica"	"Senza specifica"	5i_Bi	"Settimana 41"	17	0	_LabInformatica2_221	"S (33/33)"		60/60				
+2h00	"lunedì 13h45"			S		1	1		"Boschi Luca, Trentini Andrea"	"INFO - Informatica"	"Senza specifica"	4i_Bi		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Boschi Luca, Trentini Andrea"	"INFO - Informatica"	"Senza specifica"	4i_Bi		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		0	0		"Boschi Luca, Trentini Andrea"	"INFO - Informatica"	"Senza specifica"	3i_Bi		25	0	_LabInformatica2_221	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Boschi Luca, Trentini Andrea"	"INFO - Informatica"	"Senza specifica"	3i_Bi		25	0	_LabInformatica2_221	"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		65	5		"Bruni Giulio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Bruni Giulio, Zanoni Alessandro"	"STA - STA"	"Senza specifica"	2A		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"venerdì 13h45"			S		1	1		"Bruni Giulio, Zanoni Alessandro"	"STA - STA"	"Senza specifica"	2A		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"martedì 18h45"			S		1	1		"Bruno Antonio, Ghizzi Andrea"	"SISTEMI - Sistemi"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 18h45"			S		1	1		"Bruno Antonio, Ghizzi Andrea"	"ELETTRO - Elettronica"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 21h25"			S		1	1		"Bruno Antonio, Ghizzi Andrea"	"ELETTRO - Elettronica"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 20h25"			S		1	1		"Bruno Antonio, Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 19h35"			S		1	1		"Bruno Antonio, Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_3S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"venerdì 18h45"			S		1	1		"Bruno Antonio, Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 18h45"			S		1	1		"Bruno Antonio, Rizzi Michele"	"SISTEMI - Sistemi"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 21h25"			S		1	1		"Bruno Antonio, Rizzi Michele"	"SISTEMI - Sistemi"	"Senza specifica"	"<_3S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Brusco Monica"	"MOTORIA - Scienze Motorie"	"Senza specifica"	1E		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"lunedì 14h35"			S		1	1		"Brusco Monica"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4ea_Aea		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		50	4		"Brusco Monica"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"Brusco Monica"	"MOTORIA - Scienze Motorie"	"Senza specifica"	1B		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 11h15"			S		1	1		"Brusco Monica"	"MOTORIA - Scienze Motorie"	"Senza specifica"	1A		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		1	1		"Brusco Monica"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5ea_Aea		20	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Brusco Monica"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2A		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		1	1		"Brusco Monica"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3ea_Aea		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"martedì 22h15"			S		0	0		"Campi Alberto"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	"<_3S> Meccanica"	"Settimana 38"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 20h25"			S		0	0		"Campi Alberto"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	"<_3S> Meccanica"	"Settimana 37"	0	0		"S (33/33)"		60/60				
+2h00	"giovedì 19h35"			S		0	0		"Campi Alberto"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 21h25"			S		0	0		"Campi Alberto"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	"<_5S> Meccanica"	"Settimana 37"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		67	5		"Castaldo Enrico"	"ALTERN - Alternativa alla Religione"	"Senza specifica"			0	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 18h45"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 20h25"			S		1	1		"Castaldo Enrico"	"ITA - Italiano"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 21h25"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"martedì 22h15"			S		1	1		"Castaldo Enrico"	"ITA - Italiano"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 18h45"			S		1	1		"Castaldo Enrico"	"ITA - Italiano"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 20h25"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 21h25"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	_3S	"Settimana 38"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 18h45"			S		1	1		"Castaldo Enrico"	"ITA - Italiano"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 20h25"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 21h25"			S		1	1		"Castaldo Enrico"	"ITA - Italiano"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+2h00	"venerdì 18h45"			S		1	1		"Castaldo Enrico"	"ITA - Italiano"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 20h25"			S		1	1		"Castaldo Enrico"	"STORIA - Storia"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		0	0		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	1B	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h55"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		50	4		"Cattani Alice"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		1	1		"Cattani Alice"	"AUTONOMIA - Autonomia"	"Senza specifica"	5i_Ci		17	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	5i_Ci	"Settimana 38"	17	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Cattani Alice"	"AUTONOMIA - Autonomia"	"Senza specifica"	4i_Ci	"Settimana 4"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	4i_Ci	"Settimana 4"	25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	3i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	1B	"Settimana 39"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Cattani Alice"	"MATE - Matematica"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h55"			S		52	4		"Cenci Chiara"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		1	1		"Cenci Chiara, Cesarini Andrea"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Aea		25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Cenci Chiara, Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	3ea_Bea		25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"lunedì 12h55"			S		1	1		"Cenci Chiara, Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Bea		25	0	_LabAutomazione_008	"S (33/33)"		60/60				
+3h00	"giovedì 13h45"			S		1	1		"Cenci Chiara, Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	5ea_Bea		21	0	_LabAutomazione_008	"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Cenci Giovanni"	"TPSEE - TPSEE"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		47	4		"Cenci Giovanni"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 12h55"			S		0	0		"Cenci Giovanni"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Cenci Giovanni"	"SISTEMI - Sistemi"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Cenci Giovanni"	"TPSEE - TPSEE"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Cenci Giovanni"	"AUTONOMIA - Autonomia"	"Senza specifica"	3ea_Bea		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Cenci Giovanni"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Cenci Giovanni"	"SISTEMI - Sistemi"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Cenci Giovanni, Decarli Matteo"	"AUTONOMIA - Autonomia"	"Senza specifica"	5ea_Aea		20	0	_LabRobotica_317	"S (33/33)"		60/60				
+2h00	"lunedì 13h45"			S		1	1		"Cenci Giovanni, Decarli Matteo"	"AUTONOMIA - Autonomia"	"Senza specifica"	5ea_Bea		21	0	_LabRobotica_317	"S (33/33)"		60/60				
+3h00	"mercoledì 09h35"			S		1	1		"Cenci Giovanni, Decarli Matteo"	"TPSEE - TPSEE"	"Senza specifica"	5ea_Bea		21	0	_LabAutomazione_008	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Cenci Giovanni, Elia Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Cm		0	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+3h00	"martedì 13h45"			S		0	0		"Cenci Giovanni, Ferrari Nicola"	"SISTEMI - Sistemi"	"Senza specifica"	5ea_Aea		20	0	_LabAutomazione_008	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		0	0		"Cenci Giovanni, Quagliarella Giacomo"	"AUTONOMIA - Autonomia"	"Senza specifica"	3ea_Bea		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Cesarini Andrea"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		50	4		"Cesarini Andrea"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Cesarini Andrea"	"AUTONOMIA - Autonomia"	"Senza specifica"	4ea_Bea		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Cesarini Andrea"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Cesarini Andrea"	"AUTONOMIA - Autonomia"	"Senza specifica"	4ea_Aea		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+2h00	"venerdì 10h25"			S		1	1		"Cesarini Andrea"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Cesarini Andrea, Elia Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	3m_Am		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		1	1		"Cesarini Andrea, Pulcini Tiziano"	"AUTONOMIA - Autonomia"	"Senza specifica"	4ea_Aea		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+2h00	"lunedì 13h45"			S		1	1		"Cesarini Andrea, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2D		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Cesarini Andrea, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2C		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Cesarini Andrea, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2D		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"giovedì 08h45"			S		1	1		"Cesarini Andrea, Quagliarella Giacomo"	"AUTONOMIA - Autonomia"	"Senza specifica"	4ea_Bea		25	0	_LabRobotica_317	"S (33/33)"		60/60				
+2h00	"venerdì 08h45"			S		1	1		"Cesarini Andrea, Quagliarella Giacomo"	"STA - STA"	"Senza specifica"	2C		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Chinetti Francesca"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Chinetti Francesca"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Chinetti Francesca"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Chinetti Francesca"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Chinetti Francesca"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Chinetti Francesca, Leocata Salvatore"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2A		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		1	1		"Chinetti Francesca, Leocata Salvatore"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2I		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"martedì 13h45"			S		1	1		"Chinetti Francesca, Leocata Salvatore"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2G		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Chinetti Francesca, Leocata Salvatore"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2A		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"giovedì 08h45"			S		1	1		"Chinetti Francesca, Leocata Salvatore"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2G		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		1	1		"Chinetti Francesca, Leocata Salvatore"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2I		25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"lunedì 19h35"			S		1	1		"Cian Marco"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 20h25"			S		1	1		"Cian Marco"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	"<_5S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 21h25"			S		1	1		"Cian Marco"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 18h45"			S		1	1		"Cian Marco"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	"<_5S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 20h25"			S		1	1		"Cian Marco"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 18h45"			S		1	1		"Cian Marco"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	"<_3S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 18h45"			S		1	1		"Cian Marco"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	"<_5S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 21h25"			S		1	1		"Cian Marco"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	"<_3S> Meccanica"		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		36	4		"D'Agostino Elisa"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		52	4		"D'Agostino Elisa"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"D'Agostino Elisa"	"STORIA - Storia"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"D'Agostino Elisa"	"ITA - Italiano"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"D'Agostino Elisa"	"ITA - Italiano"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"D'Agostino Elisa"	"ITA - Italiano"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"D'Agostino Elisa"	"STORIA - Storia"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"D'Agostino Elisa"	"STORIA - Storia"	"Senza specifica"	1D		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		71	5		"D'Alessio Roberta"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"D'Alessio Roberta"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"D'Alessio Roberta"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"D'Alessio Roberta"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 12h55"			S		1	1		"D'Alessio Roberta, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1B		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"D'Alessio Roberta, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1B		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"D'Alessio Roberta, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1C		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"D'Alessio Roberta, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1C	"Settimana 40"	25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"martedì 14h35"			S		61	5		"D'Arrigo Luca"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		57	5		"D'Arrigo Luca"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+2h00	"lunedì 14h35"			S		0	0		"D'Arrigo Luca, Marchiori Silvano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Cm		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"D'Arrigo Luca, Marchiori Silvano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Cm		0	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"martedì 12h55"			S		1	1		"D'Arrigo Luca, Messina Daniel"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Den		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"D'Arrigo Luca, Messina Daniel"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Den		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"D'Arrigo Luca, Montalbano Stefano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Bm		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"giovedì 11h15"			S		1	1		"D'Arrigo Luca, Montalbano Stefano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Am		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+3h00	"martedì 10h25"			S		0	0	P	"D'Arrigo Luca, Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	3m_Bm	"Settimana 39"	25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"D'Arrigo Luca, Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	4m_Cm		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"martedì 14h35"			S		46	4		"D'Ercole Michele"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 08h45"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"D'Ercole Michele"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"D'Ercole Michele, Nastasi Corrado"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Den		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+3h00	"lunedì 13h45"			S		1	1		"D'Ercole Michele, Zuliani Andrea"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Am		21	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Dallapiccola Paolo"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"Dallapiccola Paolo"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h55"			S		47	4		"Dallapiccola Paolo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		1	1		"Dallapiccola Paolo, Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Cen		18	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		0	0		"Dallapiccola Paolo, Marchiori Silvano"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Cm		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+3h00	"giovedì 13h45"			S		1	1		"Dallapiccola Paolo, Marchiori Silvano"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Cm		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		1	1		"Dallapiccola Paolo, Mazzola Francesco"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Den		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"mercoledì 12h55"			S		1	1		"Dallapiccola Paolo, Messina Daniel"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Am		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		0	0		"Dallapiccola Paolo, Messina Daniel"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Bm		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+3h00	"lunedì 07h55"			S		1	1		"Dallapiccola Paolo, Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Bm		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"venerdì 12h55"			S		1	1		"Dallapiccola Paolo, Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Bm		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"mercoledì 18h45"			S		1	1		"Dappiano Andrea, Zago Manuel"	"TPSIT - TPSIT"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"venerdì 18h45"			S		0	0		"Dappiano Andrea, Zago Manuel"	"RETI - Reti"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"venerdì 21h25"			S		0	0		"Dappiano Andrea, Zago Manuel"	"TPSIT - TPSIT"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		52	4		"Decarli Matteo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Decarli Matteo, Del Colle Carla"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	1Q		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Decarli Matteo, Sembenico Pierluigi"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	2Q	"Settimana 39"	25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Decarli Matteo, Todesco Patrick"	"STA - STA"	"Senza specifica"	2G		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Decarli Matteo, Todesco Patrick"	"STA - STA"	"Senza specifica"	2G		25	0	_LabSTA_124A	"S (33/33)"		60/60				
+2h00	"lunedì 08h45"			S		1	1		"Del Colle Carla"	"TTRG - TTRG"	"Senza specifica"	2I		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		53	4		"Del Colle Carla"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		1	1		"Del Colle Carla"	"TTRG - TTRG"	"Senza specifica"	2F		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+2h00	"mercoledì 12h55"			S		1	1		"Del Colle Carla"	"TTRG - TTRG"	"Senza specifica"	2B		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		0	0		"Del Colle Carla"	"TTRG - TTRG"	"Senza specifica"	2A		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		0	0		"Del Colle Carla"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	1Q		25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		1	1		"Del Colle Carla"	"TTRG - TTRG"	"Senza specifica"	2G		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Del Colle Carla, Iaffaldano Noemi"	"TTRG - TTRG"	"Senza specifica"	2A	"Settimana 39"	25	0	_LabInformatica2_221	"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Del Colle Carla, Iaffaldano Noemi"	"TTRG - TTRG"	"Senza specifica"	2I		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		0	0		"Del Colle Carla, Iaffaldano Noemi"	"TTRG - TTRG"	"Senza specifica"	2B		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		0	0		"Del Colle Carla, Iaffaldano Noemi"	"TTRG - TTRG"	"Senza specifica"	2F		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Del Colle Carla, Zuliani Andrea"	"TTRG - TTRG"	"Senza specifica"	2G		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2H		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1B		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1F	"Settimana 49"	25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"lunedì 12h55"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2C		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		62	5		"Demartis Luca"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 39"	0	0	_Aula_320	"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2I		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2E		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		62	5		"Demartis Luca"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		62	5		"Demartis Luca"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2B		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Demartis Luca"	"BIOLOGIA - Biologia"	"Senza specifica"	1E		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Di Cagno Simona"	"MATE - Matematica"	"Senza specifica"	2G		25	0	_VicePresidenza	"S (33/33)"		60/60				
+2h00	"martedì 08h45"			S		1	1		"Di Cagno Simona"	"MATE - Matematica"	"Senza specifica"	2I		25	0	_VicePresidenza	"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Di Cagno Simona"	"MATE - Matematica"	"Senza specifica"	2G		25	0	_VicePresidenza	"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Di Cagno Simona"	"MATE - Matematica"	"Senza specifica"	2I		25	0	_VicePresidenza	"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		17	1		"Di Cagno Simona"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Di Cagno Simona"	"MATE - Matematica"	"Senza specifica"	2I		25	0	_VicePresidenza	"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Di Cagno Simona"	"MATE - Matematica"	"Senza specifica"	2G		25	0	_VicePresidenza	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Dietre Andrea"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Dietre Andrea"	"IMPIANTI - Impianti"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		0	0		"Dietre Andrea"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Fen	"Settimana 49"	25	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		0	0		"Dietre Andrea"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		53	4		"Dietre Andrea"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		0	0		"Dietre Andrea"	"IMPIANTI - Impianti"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Dietre Andrea"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		0	0		"Dietre Andrea, Mazzola Francesco"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Fen		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Dietre Andrea, Mazzola Francesco"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Fen		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1	P	"Dietre Andrea, Mazzola Francesco"	"IMPIANTI - Impianti"	"Senza specifica"	4m_Den		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Dietre Andrea, Mazzola Francesco"	"IMPIANTI - Impianti"	"Senza specifica"	5m_Cen		18	0	_LabInformatica4_216	"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		55	4		"Elia Matteo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Elia Matteo, Messina Daniel"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Am		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Elia Matteo, Montalbano Stefano"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Am		21	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Elia Matteo, Parisi Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Cm		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	1D		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2G		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2D		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		72	5		"Fanti Marco"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2F		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	2A		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Fanti Marco"	"BIOLOGIA - Biologia"	"Senza specifica"	1C		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		0	0		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Fen	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		0	0		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Fen	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+2h00	"lunedì 12h55"			S		1	1		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		1	1		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		50	4		"Faraci Gabriele"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Faraci Gabriele"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Faraci Gabriele, Mazzola Francesco"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Cen		18	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		1	1		"Faraci Gabriele, Mazzola Francesco"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Fen		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"mercoledì 12h55"			S		0	0		"Faraci Gabriele, Nastasi Corrado"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Den		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Faraci Gabriele, Nastasi Corrado"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Den		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Favale Lisa"	"ITA - Italiano"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Favale Lisa"	"ITA - Italiano"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		63	5		"Favale Lisa"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Favale Lisa"	"STORIA - Storia"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Favale Lisa"	"STORIA - Storia"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Favale Lisa"	"ITA - Italiano"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"martedì 15h25"			S		1	1		"Favale Lisa"	"STORIA - Storia"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Favale Lisa"	"STORIA - Storia"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Favale Lisa"	"ITA - Italiano"	"Senza specifica"	2G	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Favale Lisa"	"ITA - Italiano"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Favale Lisa"	"STORIA - Storia"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Favale Lisa"	"STORIA - Storia"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h55"			S		1	1		"Favale Lisa"	"ITA - Italiano"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Favale Lisa"	"ITA - Italiano"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		56	4		"Ferrari Nicola"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+3h00	"lunedì 07h55"			S		1	1		"Festi Claudio, Giordani Alessandra"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	2Q	"Settimana 41"	25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"martedì 14h35"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"martedì 15h25"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	3Q		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Fortunato Angelica"	"TEDESCO - Tedesco"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		64	5		"Fortunato Angelica"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"Franchi Maurizio"	"GES_PRO - Gestione Progetto"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Franchi Maurizio"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1C	"Settimana 49"	25	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Franchi Maurizio"	"GES_PRO - Gestione Progetto"	"Senza specifica"	5i_Bi	"Settimana 41"	17	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		56	4		"Franchi Maurizio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Franchi Maurizio"	"GES_PRO - Gestione Progetto"	"Senza specifica"	5i_Ci	"Settimana 41"	17	0	_LabInformatica1_220	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Franchi Maurizio"	"GES_PRO - Gestione Progetto"	"Senza specifica"	5i_Ai	"Settimana 41"	14	0	_LabInformatica5_31	"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Franchi Maurizio"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Franchi Maurizio"	"GES_PRO - Gestione Progetto"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Franchi Maurizio"	"GES_PRO - Gestione Progetto"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		60	5		"Franchi Maurizio"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+2h00	"lunedì 14h35"			S		1	1		"Franchi Maurizio, Morellato Thomas"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1B		25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		1	1		"Franchi Maurizio, Morellato Thomas"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1C		25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Franchi Maurizio, Morellato Thomas"	"AUTONOMIA - Autonomia"	"Senza specifica"	4i_Bi		25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h55"			S		62	5		"Galvagnini Marco"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Galvagnini Marco"	"AUTONOMIA - Autonomia"	"Senza specifica"	5ea_Aea		20	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		0	0		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	3m_Am	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Galvagnini Marco"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Am		21	0	_LabInformatica1_220	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Galvagnini Marco"	"MATE - Matematica"	"Senza specifica"	1A	"Settimana 50"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 19h35"			S		1	1		"Ghizzi Andrea"	"SISTEMI - Sistemi"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"martedì 20h25"			S		1	1		"Ghizzi Andrea"	"ELETTRO - Elettronica"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 20h25"			S		1	1		"Ghizzi Andrea"	"ELETTRO - Elettronica"	"Senza specifica"	"<_3S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 18h45"			S		1	1		"Ghizzi Andrea"	"ELETTRO - Elettronica"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 19h35"			S		1	1		"Ghizzi Andrea"	"SISTEMI - Sistemi"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 20h25"			S		1	1		"Ghizzi Andrea"	"ELETTRO - Elettronica"	"Senza specifica"	"<_3S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"venerdì 21h25"			S		1	1		"Ghizzi Andrea"	"ELETTRO - Elettronica"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Giordani Alessandra"	"INFO - Informatica"	"Senza specifica"	5i_Ci		17	0	_LabInformatica3_212	"S (33/33)"		60/60				
+2h00	"martedì 13h45"			S		1	1		"Giordani Alessandra"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	2Q		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		56	4		"Giordani Alessandra"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 10h25"			S		1	1		"Giordani Alessandra"	"INFO - Informatica"	"Senza specifica"	5i_Ci		17	0	_LabInformatica3_212	"S (33/33)"		60/60				
+2h00	"venerdì 13h45"			S		1	1		"Giordani Alessandra"	"INFO - Informatica"	"Senza specifica"	3i_Ai		25	0	_LabCloud_303	"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		1	1		"Giordani Alessandra, Longano Mauro"	"INFO - Informatica"	"Senza specifica"	3i_Ai		25	0	_LabCloud_303	"S (33/33)"		60/60				
+2h00	"mercoledì 08h45"			S		0	0		"Giordani Alessandra, Longano Mauro"	"INFO - Informatica"	"Senza specifica"	3i_Ai	"Settimana 44"	25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"giovedì 12h55"			S		0	0		"Giordani Alessandra, Tagliapietra Alessio"	"INFO - Informatica"	"Senza specifica"	5i_Ci		17	0	_LabInformatica3_212	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	5i_Bi	"Settimana 3"	17	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		51	4		"Giordani Roberta"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 3"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	1C	"Settimana 3"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	3i_Bi	"Settimana 3"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	1C	"Settimana 3"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	5i_Bi	"Settimana 3"	17	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	3i_Bi	"Settimana 3"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h55"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	1C	"Settimana 3"	25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		57	4		"Giordani Roberta"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	3i_Bi	"Settimana 3"	25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Giordani Roberta"	"INGLESE - Inglese"	"Senza specifica"	5i_Bi	"Settimana 3"	17	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h55"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	5m_Am		21	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	3m_Am		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		54	4		"Guizzardi Patrizia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	2A		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Guizzardi Patrizia"	"INGLESE - Inglese"	"Senza specifica"	4m_Am		25	0	_LabLinguistico	"S (33/33)"		60/60				
+2h00	"lunedì 12h05"			S		35	4		"Iacovone Rita"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Iacovone Rita"	"ELETTRO - Elettronica"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Iacovone Rita"	"ELETTRO - Elettronica"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"martedì 12h55"			S		1	1		"Iacovone Rita"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"Iacovone Rita"	"ELETTRO - Elettronica"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h55"			S		65	5		"Iacovone Rita"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Iacovone Rita"	"ELETTRO - Elettronica"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Iacovone Rita"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+3h00	"mercoledì 07h55"			S		1	1		"Iacovone Rita, Pulcini Tiziano"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Aea		25	0	_LabElettronica_316	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Iacovone Rita, Pulcini Tiziano"	"ELETTRO - Elettronica"	"Senza specifica"	5ea_Aea		20	0	_LabElettronica_316	"S (33/33)"		60/60				
+2h00	"venerdì 08h45"			S		1	1		"Iacovone Rita, Pulcini Tiziano"	"ELETTRO - Elettronica"	"Senza specifica"	4ea_Aea		25	0	_LabElettronica_316	"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	5ea_Aea		20	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	1D		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		58	5		"Iacuzzo Concetta"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		66	5		"Iacuzzo Concetta"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		58	5		"Iacuzzo Concetta"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Iacuzzo Concetta"	"RELIGIONE - Religione"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		55	4		"Iaffaldano Noemi"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 12h55"			S		1	1		"Iaffaldano Noemi, Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1A		25	0	_LabDisegnoGrafite_116	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Iaffaldano Noemi, Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1E		25	0	_LabDisegnoGrafite_116	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		0	0		"Iaffaldano Noemi, Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1F		25	0	_LabDisegnoGrafite_116	"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Iaffaldano Noemi, Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	2H		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+2h00	"venerdì 10h25"			S		1	1		"Iaffaldano Noemi, Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1B		25	0	_LabDisegnoGrafite_116	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Iaffaldano Noemi, Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	2D		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Iaffaldano Noemi, Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	2C	"Settimana 39"	25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		0	0		"Iaffaldano Noemi, Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	1D		25	0	_LabDisegnoGrafite_116	"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Iaffaldano Noemi, Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	2E	"Settimana 39"	25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	2I		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h55"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	5ea_Bea		21	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	2D	"Settimana 38"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	4ea_Bea		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	3ea_Bea		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		55	4		"Izzo Carmen"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	3m_Cm		0	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	2D	"Settimana 38"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Izzo Carmen"	"INGLESE - Inglese"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	1A	"Settimana 39"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Lapertosa Anna"	"STORIA - Storia"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Lapertosa Anna"	"STORIA - Storia"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1	P	"Lapertosa Anna"	"ITASTO - Italiano+Storia"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 08h45"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		64	5		"Lapertosa Anna"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"Lapertosa Anna"	"STORIA - Storia"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Lapertosa Anna"	"STORIA - Storia"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Lapertosa Anna"	"STORIA - Storia"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Lapertosa Anna"	"ITA - Italiano"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Lapertosa Anna"	"STORIA - Storia"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		0	0		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		0	0		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		0	0		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		38	3		"Larcher Barbara"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"martedì 14h35"			S		1	1		"Larcher Barbara"	"AUTONOMIA - Autonomia"	"Senza specifica"	5i_Ai	"Settimana 50"	14	0	_LabCloud_303	"S (33/33)"		60/60				
+1h00	"martedì 15h25"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Larcher Barbara"	"MATE - Matematica"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 08h45"			S		0	0		"Larcher Barbara, Trentini Andrea"	"AUTONOMIA - Autonomia"	"Senza specifica"	4i_Ai		25	0	_LabCloud_303	"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Lazzara Salvatore"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Bm	"Settimana 37"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		75	5		"Lazzara Salvatore"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Lazzara Salvatore"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Am	"Settimana 37"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		65	5		"Leocata Salvatore"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 13h45"			S		0	0		"Leocata Salvatore, Longinotti Paolo, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2C		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		0	0		"Leocata Salvatore, Longinotti Paolo, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		0	0		"Leocata Salvatore, Longinotti Paolo, Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2C		25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Liardo Lunetta"	"STORIA - Storia"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Liardo Lunetta"	"ITA - Italiano"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Liardo Lunetta"	"ITA - Italiano"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Liardo Lunetta"	"STORIA - Storia"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Liardo Lunetta"	"STORIA - Storia"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Liardo Lunetta"	"ITA - Italiano"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Liardo Lunetta"	"ITA - Italiano"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Liardo Lunetta"	"STORIA - Storia"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Liardo Lunetta"	"STORIA - Storia"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 08h45"			S		1	1		"Liardo Lunetta"	"ITA - Italiano"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		53	4		"Liardo Lunetta"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	1F	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h55"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	2Q		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		54	4		"Libardoni Laura"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	1Q		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Libardoni Laura"	"TEDESCO - Tedesco"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		64	5		"Liuzzo Marialuisa"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2D	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	1D		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Liuzzo Marialuisa"	"DIRITTO - Diritto"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		53	4		"Longano Mauro"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Longano Mauro, Longano Stefano"	"TPSIT - TPSIT"	"Senza specifica"	5i_Ci		17	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"mercoledì 12h55"			S		0	0		"Longano Mauro, Sannicolo Federico"	"TPSIT - TPSIT"	"Senza specifica"	4i_Bi		25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Longano Mauro, Sannicolo Federico"	"TPSIT - TPSIT"	"Senza specifica"	5i_Bi		17	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		0	0		"Longano Mauro, Segala Consuelo"	"RETI - Reti"	"Senza specifica"	5i_Ci		17	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		1	1		"Longano Mauro, Tairovsky Denis"	"AUTONOMIA - Autonomia"	"Senza specifica"	3i_Ai		25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Longano Mauro, Tairovsky Denis"	"TPSIT - TPSIT"	"Senza specifica"	4i_Ci		25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		0	0		"Longano Mauro, Tairovsky Denis"	"TPSIT - TPSIT"	"Senza specifica"	3i_Ai		25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Longano Stefano"	"TPSIT - TPSIT"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		0	0		"Longano Stefano"	"RETI - Reti"	"Senza specifica"	3i_Bi	"Settimana 49"	25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Longano Stefano"	"TPSIT - TPSIT"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"Longano Stefano"	"AUTONOMIA - Autonomia"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		53	4		"Longano Stefano"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Longano Stefano, Montagni Patrizia"	"AUTONOMIA - Autonomia"	"Senza specifica"	5i_Ci		17	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"giovedì 13h45"			S		0	0		"Longano Stefano, Montagni Patrizia"	"RETI - Reti"	"Senza specifica"	3i_Bi		25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		0	0		"Longano Stefano, Tagliapietra Alessio"	"TPSIT - TPSIT"	"Senza specifica"	5i_Ai		14	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		0	0		"Longano Stefano, Tagliapietra Alessio"	"AUTONOMIA - Autonomia"	"Senza specifica"	5i_Ai		14	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Longano Stefano, Trentini Andrea"	"AUTONOMIA - Autonomia"	"Senza specifica"	3i_Bi		25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Lorenzini Maurizio"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Fen		25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		0	0		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	1C	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h55"			S		0	0		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	5m_Fen	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		0	0		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	5m_Fen	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		51	4		"Lorenzini Maurizio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	5m_Fen	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Lorenzini Maurizio"	"MATE - Matematica"	"Senza specifica"	1C	"Settimana 39"	25	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		0	0		"Mangia Elisa"	"ELETTRO - Elettronica"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		0	0		"Mangia Elisa"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		44	4		"Mangia Elisa"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		49	4		"Mangia Elisa"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Mangia Elisa"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		1	1		"Mangia Elisa"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Mangia Elisa"	"ELETTRO - Elettronica"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		1	1		"Mangia Elisa"	"ELETTRO - Elettronica"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		45	4		"Mangia Elisa"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+2h00	"giovedì 11h15"			S		1	1		"Mangia Elisa"	"ELETTRO - Elettronica"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		0	0		"Mangia Elisa, Pulcini Tiziano"	"ELETTRO - Elettronica"	"Senza specifica"	5ea_Bea		21	0	_LabElettronica_316	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Mangia Elisa, Pulcini Tiziano"	"ELETTRO - Elettronica"	"Senza specifica"	4ea_Bea		25	0	_LabElettronica_316	"S (33/33)"		60/60				
+3h00	"venerdì 10h25"			S		1	1		"Mangia Elisa, Quagliarella Giacomo"	"ELETTRO - Elettronica"	"Senza specifica"	3ea_Bea		25	0	_LabElettronica_316	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		53	4		"Maniago Maria Lucia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Maniago Maria Lucia"	"RELIGIONE - Religione"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		0	0		"Maniago Maria Lucia, Vicentini Simone"	"GIN_REL - Scienze Motorie + Religione"	"Senza specifica"	"1Q, 2Q"		50	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Maniago Maria Lucia, Vicentini Simone"	"GIN_REL - Scienze Motorie + Religione"	"Senza specifica"	3Q		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		0	0		"Manica Ilaria"	"ITA - Italiano"	"Senza specifica"	1F	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		60	4		"Manica Ilaria"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		39	3		"Manica Ilaria"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 39"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+3h00	"venerdì 07h55"			S		0	0	P	"Manica Ilaria"	"ITASTO - Italiano+Storia"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		60	5		"Marchelli Cristian"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Marchelli Cristian"	"AUTONOMIA - Autonomia"	"Senza specifica"	5ea_Bea		21	0	_LabInformatica1_220	"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	1E	"Settimana 39"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 08h45"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Marchelli Cristian"	"MATE - Matematica"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		0	0		"Marchiori Silvano"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Marchiori Silvano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		41	3		"Marchiori Silvano"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Marchiori Silvano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Marchiori Silvano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Marchiori Silvano"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Cm	"Settimana 38"	25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Marchiori Silvano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Marchiori Silvano"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		0	0		"Marchiori Silvano, Mazzola Francesco"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Den		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		0	0		"Marchiori Silvano, Zuliani Andrea"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Bm	"Settimana 39"	25	0	_LabEnergia_005	"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Marzani Carlo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Marzani Carlo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Marzani Carlo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		63	5		"Marzani Carlo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Marzani Carlo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Marzani Carlo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Marzani Carlo, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2D		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		1	1		"Marzani Carlo, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2E		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Marzani Carlo, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2E		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"Marzani Carlo, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2H		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Marzani Carlo, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2H		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Marzani Carlo, Morandi Nicola"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2D		25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		55	4		"Mazzola Francesco"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Mazzola Francesco, Parisi Matteo"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Den		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1	P	"Mazzola Francesco, Parisi Matteo"	"IMPIANTI - Impianti"	"Senza specifica"	3m_Den		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Messina Daniel"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Den	"Settimana 49"	25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Messina Daniel"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Messina Daniel"	"AUTONOMIA - Autonomia"	"Senza specifica"	4m_Am		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Messina Daniel"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+3h00	"giovedì 07h55"			S		1	1		"Messina Daniel"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	5m_Am		21	0	_LabInformatica4_216	"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		37	3		"Messina Daniel"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		0	0		"Messina Daniel"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Den	"Settimana 38"	25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		0	0		"Messina Daniel"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	5m_Am	"Settimana 38"	21	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Messina Daniel, Zuliani Andrea"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Bm		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		0	0		"Miolo Nicola"	"MATE - Matematica"	"Senza specifica"	3Q		25	0	_VicePresidenza	"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		32	2		"Miolo Nicola"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Miolo Nicola"	"MATE - Matematica"	"Senza specifica"	3Q		25	0	_VicePresidenza	"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		1	1		"Miolo Nicola"	"MATE - Matematica"	"Senza specifica"	3Q		25	0	_VicePresidenza	"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Miolo Nicola"	"MATE - Matematica"	"Senza specifica"	3Q	"Settimana 52"	25	0	"_LabAutomazione_008, _VicePresidenza"	"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		28	2		"Montagni Patrizia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Montagni Patrizia, Segala Consuelo"	"RETI - Reti"	"Senza specifica"	5i_Ai		14	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"Montagni Patrizia, Segala Consuelo"	"RETI - Reti"	"Senza specifica"	3i_Ai		25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"giovedì 11h15"			S		0	0		"Montagni Patrizia, Segala Consuelo"	"RETI - Reti"	"Senza specifica"	4i_Ai		25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		1	1	P	"Montagni Patrizia, Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	4i_Bi	"Settimana 38"	25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		0	0	P	"Montagni Patrizia, Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	4i_Ci	"Settimana 38"	25	0	"_LabAutomazione_008, _LabRetiDiCalcolatori_222B"	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1	P	"Montagni Patrizia, Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	4i_Ai	"Settimana 38"	25	0	"_LabRetiDiCalcolatori_222B, _LabRobotica_317"	"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		1	1		"Montalbano Stefano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Montalbano Stefano"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		0	0		"Montalbano Stefano"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Fen	"Settimana 5"	25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"Montalbano Stefano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		37	3		"Montalbano Stefano"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Montalbano Stefano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 12h55"			S		1	1		"Montalbano Stefano"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Montalbano Stefano, Nastasi Corrado"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Bm		25	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		0	0		"Montalbano Stefano, Zuliani Andrea"	"MECCANICA - Meccanica Macchine Energia"	"Senza specifica"	5m_Am		21	0	_LabEnergia_005	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Montalbano Stefano, Zuliani Andrea"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	5m_Fen		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		39	3		"Morandi Nicola"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Morandi Nicola, Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1A		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Morandi Nicola, Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1A		25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		61	5		"Morellato Thomas"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		0	0		"Morellato Thomas, Sannicolo Federico"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1D	"Settimana 41"	25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Morellato Thomas, Santarsiero Pietro"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1A		25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+3h00	"martedì 08h45"			S		1	1		"Morellato Thomas, Santarsiero Pietro"	"INFO - Informatica"	"Senza specifica"	5i_Ai		14	0	_LabInformatica5_31	"S (33/33)"		60/60				
+3h00	"mercoledì 10h25"			S		0	0		"Morellato Thomas, Santarsiero Pietro"	"INFO - Informatica"	"Senza specifica"	4i_Ai		25	0	_LabCloud_303	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		0	0		"Morellato Thomas, Tairovsky Denis"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1F		25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+2h00	"giovedì 12h55"			S		1	1		"Morellato Thomas, Tairovsky Denis"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1E		25	0	_LabInformatica5_31	"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		63	5		"Moretti Alessandro"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		0	0		"Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	3m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Moretti Alessandro"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Bm		25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Moretti Alessandro"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		1	1		"Moretti Alessandro"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Bm	"Settimana 37"	25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		54	4		"Nastasi Corrado"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		51	4		"Nastasi Corrado"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 39"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+3h00	"lunedì 07h55"			S		1	1	P	"Nastasi Corrado, Parisi Matteo"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	3m_Am		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		0	0		"Nastasi Corrado, Parisi Matteo"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Den		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+3h00	"martedì 07h55"			S		0	0	P	"Nastasi Corrado, Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	3m_Cm		0	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Nastasi Corrado, Samuele Noemi"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	5m_Cen		18	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	1E	"Settimana 39"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Nicolodi Martina"	"STORIA - Storia"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Nicolodi Martina"	"STORIA - Storia"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"martedì 14h35"			S		64	5		"Nicolodi Martina"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 15h25"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Nicolodi Martina"	"STORIA - Storia"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1	P	"Nicolodi Martina"	"ITASTO - Italiano+Storia"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Nicolodi Martina"	"STORIA - Storia"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Nicolodi Martina"	"STORIA - Storia"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Nicolodi Martina"	"STORIA - Storia"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Nicolodi Martina"	"ITA - Italiano"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Pancheri Paolo"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Pancheri Paolo"	"SCI_NAT - Scienze Naturali e Fisica Applicata"	"Senza specifica"	1Q		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Pancheri Paolo"	"SCI_NAT - Scienze Naturali e Fisica Applicata"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		58	5		"Pancheri Paolo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 13h45"			S		1	1		"Pancheri Paolo"	"SCI_NAT - Scienze Naturali e Fisica Applicata"	"Senza specifica"	2Q		25	0	_LabBiologia_124C	"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Pancheri Paolo"	"SCI_NAT - Scienze Naturali e Fisica Applicata"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		0	0		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	1B	"Settimana 39"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Panizza Elena"	"STORIA - Storia"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		0	0		"Panizza Elena"	"STORIA - Storia"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Panizza Elena"	"STORIA - Storia"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		0	0		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		67	5		"Panizza Elena"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		0	0		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1	P	"Panizza Elena"	"ITASTO - Italiano+Storia"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		0	0		"Panizza Elena"	"ITA - Italiano"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Paragallo Manuela"	"STORIA - Storia"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h55"			S		1	1		"Paragallo Manuela"	"STORIA - Storia"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		1	1		"Paragallo Manuela"	"STORIA - Storia"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+2h00	"martedì 08h45"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"martedì 14h35"			S		59	5		"Paragallo Manuela"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Paragallo Manuela"	"STORIA - Storia"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Paragallo Manuela"	"STORIA - Storia"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Paragallo Manuela"	"STORIA - Storia"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Paragallo Manuela"	"STORIA - Storia"	"Senza specifica"	5m_Den		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Paragallo Manuela"	"ITA - Italiano"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+2h00	"martedì 12h55"			S		1	1		"Parisi Matteo"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Parisi Matteo"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Am		25	0	_LabTecnologieMeccaniche_018	"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		41	3		"Parisi Matteo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Parisi Matteo"	"AUTOMAZIONE - Sistemi Automazione"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Parisi Matteo"	"IMPIANTI - Impianti"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Parisi Matteo"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Am		25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+3h00	"giovedì 13h45"			S		1	1		"Parisi Matteo"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	5m_Bm		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	3m_Bm		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	1B	"Settimana 39"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		71	5		"Pedrolli Francesca"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	1B		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Pedrolli Francesca"	"INGLESE - Inglese"	"Senza specifica"	4m_Bm		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1D		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		0	0		"Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		0	0		"Pfaender Johannes"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		16	1		"Pfaender Johannes"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 19h35"			S		1	1		"Pianegiani Fernando"	"TELECOM - Telecomunicazioni"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 20h25"			S		1	1		"Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 21h25"			S		1	1		"Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"martedì 18h45"			S		1	1		"Pianegiani Fernando"	"TELECOM - Telecomunicazioni"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"martedì 22h15"			S		1	1		"Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_3S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 18h45"			S		1	1		"Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_3S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 20h25"			S		1	1		"Pianegiani Fernando"	"TELECOM - Telecomunicazioni"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 18h45"			S		1	1		"Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_4S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 21h25"			S		1	1		"Pianegiani Fernando"	"TPSEE - TPSEE"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 20h25"			S		1	1		"Pianegiani Fernando"	"TELECOM - Telecomunicazioni"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Pizzini Eleonora"	"STORIA - Storia"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"martedì 14h35"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"martedì 15h25"			S		1	1		"Pizzini Eleonora"	"STORIA - Storia"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Pizzini Eleonora"	"STORIA - Storia"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		61	5		"Pizzini Eleonora"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Pizzini Eleonora"	"STORIA - Storia"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Pizzini Eleonora"	"STORIA - Storia"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Pizzini Eleonora"	"ITA - Italiano"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Pizzini Eleonora"	"STORIA - Storia"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		1	1		"Pizzini Eleonora"	"STORIA - Storia"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 14h35"			S		1	1		"Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	4m_Bm		25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	4m_Am		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Plotegher Margherita"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Cm		0	0	_LabTPSEE_007	"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		40	3		"Plotegher Margherita"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Plotegher Margherita"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	4m_Cm		25	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Plotegher Margherita"	"AUTONOMIA - Autonomia"	"Senza specifica"	3m_Cm		0	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"lunedì 13h45"			S		1	1		"Poli Valentina"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Cen		18	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"martedì 15h25"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h55"			S		61	5		"Poli Valentina"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Poli Valentina"	"MATE - Matematica"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	1A	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Prezzi Antonia"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		65	5		"Prezzi Antonia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Prezzi Antonia, Somenzi Fabio"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2F		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"lunedì 13h45"			S		1	1		"Prezzi Antonia, Somenzi Fabio"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2B		25	0	_LabChimica_120	"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Prezzi Antonia, Somenzi Fabio"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2B		25	0	_LabFisica_119	"S (33/33)"		60/60				
+2h00	"venerdì 12h55"			S		1	1		"Prezzi Antonia, Somenzi Fabio"	"CHIMICA-FISICA - Fisica-Chimica"	"Senza specifica"	2F		25	0	_LabFisica_119	"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		45	3		"Prezzi Matteo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4m_Den		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4m_Bm		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4m_Am		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 12h55"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5m_Cen		18	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5m_Am		21	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 09h35"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3m_Bm		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 12h55"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2I		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 14h35"			S		1	1		"Prezzi Matteo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3m_Am		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		71	5		"Pulcini Tiziano"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		64	5		"Quagliarella Giacomo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 08h45"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Quinto Viviana"	"STORIA - Storia"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Quinto Viviana"	"STORIA - Storia"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h55"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Quinto Viviana"	"STORIA - Storia"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		63	5		"Quinto Viviana"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Quinto Viviana"	"STORIA - Storia"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+2h00	"venerdì 08h45"			S		1	1		"Quinto Viviana"	"STORIA - Storia"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Quinto Viviana"	"ITA - Italiano"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Quinto Viviana"	"STORIA - Storia"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Riccadonna Claudio"	"STORIA - Storia"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Riccadonna Claudio"	"STORIA - Storia"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Riccadonna Claudio"	"STORIA - Storia"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Riccadonna Claudio"	"STORIA - Storia"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Riccadonna Claudio"	"STORIA - Storia"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		0	0		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		0	0		"Riccadonna Claudio"	"STORIA - Storia"	"Senza specifica"	5m_Am		21	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		62	5		"Riccadonna Claudio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		0	0		"Riccadonna Claudio"	"STORIA - Storia"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		0	0		"Riccadonna Claudio"	"ITA - Italiano"	"Senza specifica"	4m_Am		25	0		"S (33/33)"		60/60				
+2h00	"martedì 18h45"			S		1	1		"Rizzi Michele"	"SISTEMI - Sistemi"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 20h25"			S		1	1		"Rizzi Michele"	"SISTEMI - Sistemi"	"Senza specifica"	"<_3S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 19h35"			S		1	1		"Rizzi Michele"	"SISTEMI - Sistemi"	"Senza specifica"	"<_5S> Automazione"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Rossaro Stefano"	"AUTONOMIA - Autonomia"	"Senza specifica"	4i_Bi	"Settimana 45"	25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		0	0		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	1D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+2h00	"martedì 08h45"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	1D		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		0	0		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	2D	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		0	0		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	2D	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	2D		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 11h15"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		58	5		"Rossaro Stefano"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Rossaro Stefano"	"MATE - Matematica"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h55"			S		0	0		"Rossaro Stefano"	"AUTONOMIA - Autonomia"	"Senza specifica"	5i_Bi		17	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		53	5		"Rossaro Stefano"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		68	5		"Saccani Andrea"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 49"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 08h45"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Saccani Andrea"	"MATE - Matematica"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+2h00	"martedì 08h45"			S		1	1		"Samuele Noemi, Zuliani Andrea"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Am	"Settimana 3"	21	0	_LabSistemiMeccanici_311	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	4m_Cm		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2H		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2C		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	5m_Bm	"Settimana 38"	25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	3m_Den		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	5m_Cen		18	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	4m_Den		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2B		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	4m_Den		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	5m_Bm	"Settimana 38"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	4m_Cm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		0	0		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	5m_Bm	"Settimana 38"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h05"			S		47	4		"Sancarlo Gilda"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	2H		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Sancarlo Gilda"	"INGLESE - Inglese"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Sannicolo Federico"	"TPSIT - TPSIT"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Sannicolo Federico"	"TPSIT - TPSIT"	"Senza specifica"	5i_Bi		17	0	_LabInformatica2_221	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Sannicolo Federico"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1Q		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Sannicolo Federico"	"INFO - Informatica"	"Senza specifica"	4i_Ci		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+1h00	"venerdì 12h55"			S		40	3		"Sannicolo Federico"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+3h00	"martedì 07h55"			S		0	0		"Sannicolo Federico, Tagliapietra Alessio"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1Q		25	0	_LabInformatica2_221	"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Sannicolo Federico, Trentini Andrea"	"INFO - Informatica"	"Senza specifica"	4i_Ci		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		1	1		"Sannicolo Federico, Trentini Andrea"	"INFO - Informatica"	"Senza specifica"	4i_Ci		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Santarsiero Pietro"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Santarsiero Pietro"	"AUTONOMIA - Autonomia"	"Senza specifica"	4i_Ai	"Settimana 41"	25	0	_LabCloud_303	"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Santarsiero Pietro"	"TPSIT - TPSIT"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"Santarsiero Pietro"	"INFO - Informatica"	"Senza specifica"	4i_Ai		25	0	_LabCloud_303	"S (33/33)"		60/60				
+2h00	"giovedì 14h35"			S		1	1		"Santarsiero Pietro"	"INFO - Informatica"	"Senza specifica"	5i_Ai		14	0	_LabInformatica2_221	"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Santarsiero Pietro"	"INFO - Informatica"	"Senza specifica"	4i_Ai	"Settimana 4"	25	0	_LabInformatica2_221	"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Santarsiero Pietro"	"INFO - Informatica"	"Senza specifica"	5i_Ai		14	0	_LabInformatica2_221	"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		64	5		"Santarsiero Pietro"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 14h35"			S		1	1		"Santarsiero Pietro, Tagliapietra Alessio"	"TPSIT - TPSIT"	"Senza specifica"	4i_Ai		25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Scandella Michele"	"STORIA - Storia"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Scandella Michele"	"STORIA - Storia"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Scandella Michele"	"STORIA - Storia"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Scandella Michele"	"STORIA - Storia"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Scandella Michele"	"STORIA - Storia"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		61	5		"Scandella Michele"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		0	0		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	2I	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	5i_Bi		17	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Scandella Michele"	"STORIA - Storia"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Scandella Michele"	"ITA - Italiano"	"Senza specifica"	2I		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		73	5		"Scarano Sarah"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	2C		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	2B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Scarano Sarah"	"DIRITTO - Diritto"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 14h35"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	5m_Fen		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	2F		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	4i_Ci		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		57	5		"Schir Maria Chiara"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		62	5		"Schir Maria Chiara"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	5m_Fen	"Settimana 5"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	5m_Fen		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	2G		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	4i_Bi		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 12h55"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	2G		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Schir Maria Chiara"	"INGLESE - Inglese"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		1	1		"Scottini Giovanni"	"STORIA - Storia"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Scottini Giovanni"	"STORIA - Storia"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Scottini Giovanni"	"STORIA - Storia"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Scottini Giovanni"	"STORIA - Storia"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Scottini Giovanni"	"STORIA - Storia"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Scottini Giovanni"	"STORIA - Storia"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		61	5		"Scottini Giovanni"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	2F		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Scottini Giovanni"	"ITA - Italiano"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		52	4		"Segala Consuelo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Segala Consuelo"	"RETI - Reti"	"Senza specifica"	5i_Ci		17	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Segala Consuelo"	"RETI - Reti"	"Senza specifica"	4i_Ai		25	0	_LabCloud_303	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		0	0		"Segala Consuelo"	"RETI - Reti"	"Senza specifica"	5i_Ai		14	0	_LabCloud_303	"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		0	0		"Segala Consuelo"	"RETI - Reti"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0	_LabTPSIT_222	"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Segala Consuelo"	"RETI - Reti"	"Senza specifica"	4i_Bi	"Settimana 38"	25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Segala Consuelo, Trentini Andrea"	"RETI - Reti"	"Senza specifica"	4i_Bi		25	0	_LabRetiDiCalcolatori_222B	"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Sembenico Pierluigi"	"DIS_PROG - Disegno Progettazione"	"Senza specifica"	2Q	"Settimana 49"	25	0	_LabInformatica4_216	"S (33/33)"		60/60				
+1h00	"lunedì 15h25"			S		63	5		"Sembenico Pierluigi"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		1	1		"Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1A		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	2H		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Sembenico Pierluigi"	"TTRG - TTRG"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	4ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 08h45"			S		22	5		"Senatore Antonio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	5i_Ai		14	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	3i_Ai	"Settimana 49"	25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	5i_Ai		14	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	4ea_Aea		25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	4i_Ai		25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	3i_Ai	"Settimana 49"	25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"mercoledì 09h35"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	4i_Ai		25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"mercoledì 10h25"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	5ea_Aea		20	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"giovedì 12h05"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	3ea_Aea		25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	5ea_Aea		20	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"giovedì 14h35"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	4ea_Aea		25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"giovedì 15h25"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	4i_Ai		25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	3ea_Aea		25	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	5ea_Aea		20	0	_LabLinguistico_314	"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Senatore Antonio"	"INGLESE - Inglese"	"Senza specifica"	5i_Ai		14	0	_LabLinguistico_314	"S (33/33)"		60/60				
+2h00	"lunedì 12h55"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4i_Ai		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"lunedì 14h35"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5i_Ci		17	0	_Palestra	"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5m_Bm		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		63	5		"Setti Lorenzo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 12h55"			S		0	0		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	1F		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"mercoledì 12h55"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2H		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"mercoledì 14h35"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4i_Ci		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3i_Ai		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 12h55"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5i_Ai		14	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Setti Lorenzo"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2G		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"lunedì 07h55"			S		0	0		"Silli Chiara"	"ITA - Italiano"	"Senza specifica"	1C	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Silli Chiara"	"STORIA - Storia"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Silli Chiara"	"ITA - Italiano"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Silli Chiara"	"ITA - Italiano"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1	P	"Silli Chiara"	"ITASTO - Italiano+Storia"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		62	5		"Silli Chiara"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		0	0		"Silli Chiara"	"ITA - Italiano"	"Senza specifica"	3i_Ai	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Silli Chiara"	"ITA - Italiano"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 12h55"			S		1	1		"Silli Chiara"	"ITA - Italiano"	"Senza specifica"	3i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Silli Chiara"	"STORIA - Storia"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		1	1		"Silli Chiara"	"ITA - Italiano"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Silli Chiara"	"STORIA - Storia"	"Senza specifica"	3i_Ai		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	2C	"Settimana 39"	25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	1C		25	0		"S (33/33)"		60/60				
+2h00	"martedì 13h45"			S		1	1		"Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	2E		25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		59	5		"Simoncelli Maddalena"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		67	5		"Simoncelli Maddalena"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Simoncelli Maddalena"	"TTRG - TTRG"	"Senza specifica"	2D	"Settimana 40"	25	0	_LabDisegnoFisica_112	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		0	0		"Simoncelli Maddalena, Zuliani Andrea"	"TTRG - TTRG"	"Senza specifica"	1C		25	0	_LabDisegnoGrafite_116	"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		39	3		"Somenzi Fabio"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		37	3		"Somenzi Fabio"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+1h00	"lunedì 18h45"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 19h35"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 22h15"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 20h25"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 21h25"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 22h15"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 19h35"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_4S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 21h25"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_3S		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 22h15"			S		1	1		"Sorce Ilenia"	"INGLESE - Inglese"	"Senza specifica"	_5S		0	0		"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		1	1		"Tairovsky Denis"	"TPSIT - TPSIT"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Tairovsky Denis"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"Tairovsky Denis"	"TPSIT - TPSIT"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Tairovsky Denis"	"TECNO_INFO - Tecnologie Informatiche"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Tairovsky Denis"	"TPSIT - TPSIT"	"Senza specifica"	3i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		55	4		"Tairovsky Denis"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"venerdì 08h45"			S		1	1		"Tairovsky Denis, Trentini Andrea"	"TPSIT - TPSIT"	"Senza specifica"	3i_Bi		25	0	_LabInformatica3_212	"S (33/33)"		60/60				
+3h00	"lunedì 09h35"			S		8	1		"Tarchioni Tiffani"	"FABER - FABER"	"Senza specifica"			0	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		52	5		"Tarchioni Tiffani"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+2h00	"martedì 10h25"			S		1	1		"Tarchioni Tiffani"	"ITA - Italiano"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+2h00	"martedì 12h55"			S		1	1		"Tarchioni Tiffani"	"STORIA - Storia"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		52	4		"Tarchioni Tiffani"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"Tarchioni Tiffani"	"ITA - Italiano"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		1	1		"Tarchioni Tiffani"	"ITA - Italiano"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Tarchioni Tiffani"	"ITA - Italiano"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Tarchioni Tiffani"	"STORIA - Storia"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 10h25"			S		1	1		"Tarchioni Tiffani"	"STORIA - Storia"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 07h55"			S		1	1		"Tarchioni Tiffani"	"ITA - Italiano"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Tarchioni Tiffani"	"ITA - Italiano"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Tarchioni Tiffani"	"STORIA - Storia"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 10h25"			S		1	1		"Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		1	1		"Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		0	0		"Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	5ea_Bea		21	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		54	4		"Todesco Patrick"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		0	0		"Todesco Patrick"	"SISTEMI - Sistemi"	"Senza specifica"	3ea_Bea	"Settimana 38"	25	0	_LabTPSEE_007	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3m_Den		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"lunedì 11h15"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	1C		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"martedì 10h25"			S		53	4		"Tomasi Stefano"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 11h15"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5ea_Bea		21	0	_Palestra	"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5m_Den		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"mercoledì 07h55"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2F		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4ea_Bea		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"mercoledì 12h55"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3ea_Bea		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	1D		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"venerdì 12h55"			S		1	1		"Tomasi Stefano"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2E		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		53	4		"Trentini Andrea"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	3i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 12h05"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+1h00	"martedì 12h05"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"martedì 13h45"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	3m_Am		25	0		"S (33/33)"		60/60				
+1h00	"martedì 15h25"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	5i_Ai		14	0		"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		65	5		"Trinchese Geremia"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	4ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	3ea_Bea		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 07h55"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	1E		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	1B		25	0		"S (33/33)"		60/60				
+2h00	"giovedì 09h35"			S		33	4		"Trinchese Geremia"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"S (33/33)"		60/60				
+1h00	"venerdì 07h55"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	3m_Cm		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	3m_Den		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 09h35"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"venerdì 10h25"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	5m_Cen		18	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Trinchese Geremia"	"RELIGIONE - Religione"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"martedì 20h25"			S		1	1		"Valente Roberto, Vigo Gabriele"	"INFO - Informatica"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 18h45"			S		1	1		"Valente Roberto, Vigo Gabriele"	"INFO - Informatica"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"martedì 18h45"			S		1	1		"Valente Roberto, Zago Manuel"	"TPSIT - TPSIT"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 09h35"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	1F	"Settimana 49"	25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"lunedì 11h15"			S		68	5		"Vecchio Jole Antonella"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	3Q		25	0		"S (33/33)"		60/60				
+2h00	"martedì 08h45"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	2Q		25	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	3Q		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 11h15"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	1F		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"mercoledì 12h05"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	5i_Ci		17	0		"S (33/33)"		60/60				
+1h00	"giovedì 08h45"			S		57	5		"Vecchio Jole Antonella"	"BIBLIO - Biblioteca"	"Senza specifica"		"Settimana 38"	0	0	_Biblioteca	"QD1 (17/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	1Q		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	5i_Ci		17	0	_LabLinguistico_313	"S (33/33)"		60/60				
+1h00	"giovedì 13h45"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	1F		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 13h45"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	1Q		25	0	_LabLinguistico	"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Vecchio Jole Antonella"	"INGLESE - Inglese"	"Senza specifica"	2Q		25	0	_LabLinguistico	"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2B		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"lunedì 09h35"			S		1	1		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3i_Bi		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"lunedì 12h55"			S		1	1		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4m_Cm		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"martedì 07h55"			S		1	1		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5i_Bi		17	0	_Palestra	"S (33/33)"		60/60				
+2h00	"martedì 09h35"			S		1	1		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	5m_Fen		25	0	_Palestra	"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		42	3		"Vicentini Simone"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 09h35"			S		0	0		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	3m_Cm		0	0	_Palestra	"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		0	0		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	2C		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"giovedì 07h55"			S		1	1		"Vicentini Simone"	"MOTORIA - Scienze Motorie"	"Senza specifica"	4i_Bi		25	0	_Palestra	"S (33/33)"		60/60				
+2h00	"lunedì 19h35"			S		1	1		"Vigo Gabriele"	"INFO - Informatica"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 21h25"			S		0	0		"Vigo Gabriele"	"INFO - Informatica"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 22h15"			S		0	0		"Vigo Gabriele"	"INFO - Informatica"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 18h45"			S		1	1		"Vigo Gabriele"	"INFO - Informatica"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 21h25"			S		1	1		"Vigo Gabriele"	"INFO - Informatica"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"lunedì 18h45"			S		1	1		"Zago Manuel"	"TPSIT - TPSIT"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"martedì 20h25"			S		1	1		"Zago Manuel"	"RETI - Reti"	"Senza specifica"	"<_5S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"martedì 22h15"			S		1	1		"Zago Manuel"	"INFO - Informatica"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 19h35"			S		1	1		"Zago Manuel"	"TPSIT - TPSIT"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 20h25"			S		1	1		"Zago Manuel"	"TPSIT - TPSIT"	"Senza specifica"	"<_4S> Informatica"		0	0		"S (33/33)"		60/60				
+2h00	"giovedì 21h25"			S		1	1		"Zago Manuel"	"INFO - Informatica"	"Senza specifica"	"<_3S> Informatica"		0	0		"S (33/33)"		60/60				
+1h00	"martedì 20h25"			S		1	1		"Zandonai GianMario"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	"<_5S> Meccanica"		0	0		"S (33/33)"		60/60				
+1h00	"giovedì 18h45"			S		1	1		"Zandonai GianMario"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	"<_4S> Meccanica"		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 20h25"			S		1	1		"Zandonai GianMario"	"TECNO_MEC - Tecnologie Meccaniche"	"Senza specifica"	"<_3S> Meccanica"		0	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		82	5		"Zanetti Filippo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+1h00	"venerdì 13h45"			S		1	1		"Zanetti Filippo"	"RELIGIONE - Religione"	"Senza specifica"	3ea_Aea		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 14h35"			S		1	1		"Zanetti Filippo"	"RELIGIONE - Religione"	"Senza specifica"	2E		25	0		"S (33/33)"		60/60				
+1h00	"venerdì 15h25"			S		1	1		"Zanetti Filippo"	"RELIGIONE - Religione"	"Senza specifica"	2A		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 07h55"			S		1	1		"Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	4i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 08h45"			S		64	5		"Zanoni Alessandro"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 10h25"			S		1	1		"Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 09h35"			S		1	1		"Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	3i_Bi		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		1	1		"Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	4i_Ai		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		60	5		"Zanoni Alessandro"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		1	1		"Zanoni Alessandro"	"TELECOM - Telecomunicazioni"	"Senza specifica"	4i_Ci		25	0		"S (33/33)"		60/60				
+2h00	"lunedì 07h55"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"lunedì 10h25"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	5m_Den	"Settimana 41"	25	0		"S (33/33)"		60/60				
+1h00	"martedì 07h55"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 08h45"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"martedì 09h35"			S		1	1		"Zappini Leonardo"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Bm		25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"martedì 11h15"			S		66	5		"Zappini Leonardo"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"mercoledì 11h15"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	5m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 13h45"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"mercoledì 14h35"			S		59	5		"Zappini Leonardo"	"ALTERN - Alternativa alla Religione"	"Senza specifica"		"Settimana 38"	0	0	_AulaPolivalentePal.Nuova	"S (33/33)"		60/60				
+1h00	"mercoledì 15h25"			S		0	0		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	4m_Bm		25	0		"S (33/33)"		60/60				
+1h00	"giovedì 10h25"			S		0	0		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	3m_Bm	"Settimana 40"	25	0		"S (33/33)"		60/60				
+1h00	"giovedì 11h15"			S		1	1		"Zappini Leonardo"	"AUTONOMIA - Autonomia"	"Senza specifica"	5m_Den	"Settimana 41"	25	0	_LabInformatica1_220	"S (33/33)"		60/60				
+1h00	"venerdì 08h45"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	3m_Bm		25	0		"S (33/33)"		60/60				
+2h00	"venerdì 11h15"			S		1	1		"Zappini Leonardo"	"MATE - Matematica"	"Senza specifica"	5m_Den	"Settimana 41"	25	0		"S (33/33)"		60/60				
+1h00	"venerdì 11h15"			S		56	4		"Zuliani Andrea"	"UDIENZE - Ricevimento"	"Senza specifica"		"Settimana 45"	0	0		"S (33/33)"		60/60				
+2h00	"martedì 12h55"			S		35	5			"SPORT - Gruppi Sportivi"	"Senza specifica"			0	0	_Palestra_NE	"S (33/33)"		60/60				
+2h00	"martedì 14h35"			S		35	5			"SPORT - Gruppi Sportivi"	"Senza specifica"			0	0	_Palestra_NE	"S (33/33)"		60/60				

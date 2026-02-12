@@ -1,0 +1,28 @@
+Nome	Capienza	Quantità	Occupazione	"Tasso d'occup. potenziale"	Gestori	"Aule assegnate"	"Picco d'occupazione"
+_Aula_320	-	1	1h00	1%			
+_AulaPolivalentePal.Nuova	-	1	11h00	13%			
+_Biblioteca	-	1	20h33	24%			
+_LabAutomazione_008	-	1	31h00	36%			
+_LabBiologia_124C	-	1	19h00	22%			
+_LabChimica_120	-	1	30h00	35%			
+_LabCloud_303	-	1	22h00	26%			
+_LabDisegnoFisica_112	-	1	24h00	28%			
+_LabDisegnoGrafite_116	-	1	12h00	14%			
+_LabElettronica_316	-	1	20h00	24%			
+_LabEnergia_005	-	1	39h00	46%			
+_LabFisica_119	-	1	36h00	42%			
+_LabInformatica1_220	-	1	20h31	24%			
+_LabInformatica2_221	-	1	23h00	27%			
+_LabInformatica3_212	-	1	27h00	32%			
+_LabInformatica4_216	-	1	36h02	42%			
+_LabInformatica5_31	-	1	21h00	25%			
+_LabLinguistico	-	2	59h00	35%		2	2
+_LabRetiDiCalcolatori_222B	-	1	32h00	41%			
+_LabRobotica_317	-	1	23h00	27%			
+_LabSistemiMeccanici_311	-	1	36h00	42%			
+_LabSTA_124A	-	1	27h00	32%			
+_LabTecnologieMeccaniche_018	-	1	42h00	49%			
+_LabTPSEE_007	-	1	23h02	27%			
+_LabTPSIT_222	-	1	31h00	36%			
+_Palestra	-	2	92h00	54%		2	2
+_VicePresidenza	-	1	14h00	16%			
